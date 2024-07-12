@@ -1,14 +1,14 @@
-# Use a base image with OpenJDK 8
+# Use an OpenJDK base image for Java 8
 FROM openjdk:8-jdk-alpine
 
-# Set the working directory
+# Set the working directory inside the container
 WORKDIR /app
 
-# Copy the WAR file into the container
-COPY MonitorApp-0.0.1-SNAPSHOT.war /app/MonitorApp-0.0.1-SNAPSHOT.war
+# Copy the packaged application JAR file from the build context to the container
+COPY ./target/MonitorApp-0.0.1-SNAPSHOT.war /app/app.war
 
-# Expose the port that the application will run on
+# Expose the port that your Spring Boot application uses (typically 8080)
 EXPOSE 9090
 
-# Command to run the Spring Boot application
-ENTRYPOINT ["java", "-jar", "/app/MonitorApp-0.0.1-SNAPSHOT.war"]
+# Command to run your application
+CMD ["java", "-jar", "app.war"]
