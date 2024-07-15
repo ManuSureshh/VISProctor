@@ -119,3 +119,90 @@ Eg: /adddetails
 <br>
 
 
+
+# Project Title
+
+Frontend Web Application for DevOps Project
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+This is the frontend web application for the DevOps project, developed using ReactJS and Material-UI. The application provides a user-friendly interface to interact with the backend services and perform various DevOps-related tasks.
+
+## Features
+
+- User authentication and authorization
+- Dashboard with real-time data visualization
+- Responsive design for different screen sizes
+- Integration with backend APIs
+- Theme customization with Material-UI
+
+## Tech Stack
+
+- **ReactJS**: A JavaScript library for building user interfaces
+- **Material-UI**: A popular React UI framework for designing components with Material Design
+- **Axios**: A promise-based HTTP client for making API requests
+- **Redux**: A state management library (if applicable)
+- **React Router**: For routing and navigation
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js and npm installed on your machine
+- Git installed on your machine
+- A code editor like VSCode
+
+## Installation
+
+1. Clone the repository:
+
+    ```sh
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```sh
+    cd your-repo-name
+    ```
+
+3. Install the dependencies:
+
+    ```sh
+    npm install
+    ```
+
+## Usage
+
+1. Start the development server:
+
+    ```sh
+    npm start
+    ```
+
+2. Open your browser and navigate to `http://localhost:3000`
+
+3. To build the project for production:
+
+    ```sh
+    npm run build
+    ```
+
+## Project Structure
+
+
+
+
