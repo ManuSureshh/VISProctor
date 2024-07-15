@@ -1,4 +1,10 @@
-# Project Title: VISProctor
+# Proctor: Full Stack Application
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# FrontEnd
+## Available Scripts
+
+In the project directory, you can run:
+
 ## Table of Contents
 
 - [Introduction](#introduction)
