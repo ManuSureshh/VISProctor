@@ -37,7 +37,7 @@
 
 # Full Stack Web Application with DevOps
 
-This project is a full-stack web application that utilizes ReactJS for the frontend and Java Spring Boot for the backend. The application is containerized using Docker and deployed using Kubernetes.
+This project is a full-stack web application that utilizes ReactJS for the frontend and Java Spring Boot for the backend. The application is containerized and deployed using Docker.
 
 ## Table of Contents
 
@@ -60,10 +60,9 @@ This project demonstrates a modern full-stack web application with a focus on De
 
 - **Frontend:** ReactJS
 - **Backend:** Java Spring Boot
-- **Database:** PostgreSQL (or any other SQL-based database)
+- **Database:** MySQL
 - **Containerization:** Docker
-- **Orchestration:** Kubernetes
-- **CI/CD:** Jenkins/GitHub Actions (or any other CI/CD tool)
+- **CI/CD:** Jenkins
 
 ## Features
 
