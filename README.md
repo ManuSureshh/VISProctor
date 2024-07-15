@@ -123,9 +123,9 @@ This project demonstrates a modern full-stack web application with a focus on De
     ```
 
 ## Usage
-
+Based the configurations, 
 - The React frontend will be accessible at `http://localhost:3000`.
-- The Spring Boot backend will be accessible at `http://localhost:8080`.
+- The Spring Boot backend will be accessible at `http://localhost:9090`.
 
 ## Development
 
@@ -156,28 +156,10 @@ This project demonstrates a modern full-stack web application with a focus on De
 2. Run the Docker containers:
 
     ```bash
-    docker run -p 8080:8080 your-backend-image
+    docker run -p 9090:9090 your-backend-image
     docker run -p 3000:3000 your-frontend-image
     ```
 
-### Kubernetes
-
-1. Create Kubernetes deployment and service files for both frontend and backend.
-2. Apply the Kubernetes configurations:
-
-    ```bash
-    kubectl apply -f k8s/backend-deployment.yaml
-    kubectl apply -f k8s/frontend-deployment.yaml
-    ```
-
-3. Access the application through the Kubernetes service endpoint.
-
-## Contributing
-
-Contributions are welcome! Please create a pull request or open an issue to discuss changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed and all the rights are reserved to VIS Networks Pvt Ltd. See the [LICENSE](LICENSE) file for details.
 
 
