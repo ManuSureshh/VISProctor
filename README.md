@@ -66,6 +66,10 @@ This project demonstrates a modern full-stack web application with a focus on De
 
 ## Features
 
+- Real-time monitoring of Avaya servers
+- Port and database monitoring
+- Web server and API monitoring
+- Report generation and export
 - User authentication and authorization
 - CRUD operations for various entities
 - Responsive design
@@ -76,11 +80,10 @@ This project demonstrates a modern full-stack web application with a focus on De
 ## Prerequisites
 
 - Node.js and npm
-- Java JDK 11 or higher
+- Java JDK 8
 - Docker
-- Kubernetes (Minikube or any other Kubernetes setup)
-- PostgreSQL (or any other SQL-based database)
-- Maven (for building the Spring Boot application)
+- MySQL
+- Maven
 
 ## Installation
 
