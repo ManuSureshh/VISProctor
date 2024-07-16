@@ -141,7 +141,7 @@ Based on the configurations:
 
 ## Application Snapshots
 
-Include your application snapshots or screenshots here.
+https://github.com/ManuSureshh/VISProctor/issues/1#issue-2401016671
 
 ## License
 
