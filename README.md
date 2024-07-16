@@ -117,11 +117,11 @@ Based on the configurations:
 ## Deployment
 
 ### CI/CD Process
+## Implement CI/CD using Jenkins for automated builds and deployments:
+### Below diagram shows the CI/CD pipeline architecture.
+![image](https://github.com/user-attachments/assets/802e13a7-9f77-48ba-b830-7ee1870468d3)
 
-Implement CI/CD using Jenkins for automated builds and deployments:
 
-1. Configure Jenkins jobs for frontend and backend projects.
-2. Set up pipelines for building Docker images and deploying to staging or production environments.
 
 ### Docker
 
