@@ -51,4 +51,6 @@ Once the project is built, you can run the JAR file using:
 ```bash
 java -jar target/proctor-backend-0.0.1-SNAPSHOT.jar
 ```
+# Project Structure
+
 
