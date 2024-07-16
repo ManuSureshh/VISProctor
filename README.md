@@ -172,5 +172,5 @@ This project is licensed under the terms of the [LICENSE](LICENSE) file.
 ## Contact Information
 For any questions or feedback, please reach out to us at:
 
-- Email: [VIS](salesenquiry@visnet.in)
+- Email to: salesenquiry@visnet.in
 - Website: [VIS Networks Pvt Ltd](https://visnet.in/)
