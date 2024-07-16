@@ -71,7 +71,7 @@ Before starting, ensure you have the following installed:
     cd ../backend
     ```
 
-3. Make sure the Database which you are using the project is up and running.
+3.Ensure that the database configured for this project is running and accessible.
 
 4.  Build the project:
     ```bash
