@@ -50,32 +50,5 @@ Builds the project and packages it into a JAR file in the `target` directory.
 Once the project is built, you can run the JAR file using:
 ```bash
 java -jar target/proctor-backend-0.0.1-SNAPSHOT.jar
-
-# Project Structure
-
-proctor-backend
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com
-│   │   │       └── example
-│   │   │           └── proctor
-│   │   │               ├── controller
-│   │   │               ├── model
-│   │   │               ├── repository
-│   │   │               ├── service
-│   │   │               └── ProctorApplication.java
-│   │   └── resources
-│   │       ├── application.properties
-│   │       └── static
-│   └── test
-│       └── java
-│           └── com
-│               └── example
-│                   └── proctor
-│                       └── ProctorApplicationTests.java
-├── pom.xml
-└── README.md
-
-
+```
 
