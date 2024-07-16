@@ -133,7 +133,7 @@ Based on the configurations:
 1. Build the Docker images:
 
     ```bash
-    cd backend
+    cd ../backend
     docker build -t your-backend-image .
 
     cd ../frontend
