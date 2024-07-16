@@ -30,9 +30,6 @@ The architecture diagram below illustrates the structure of the Proctor applicat
 
 ![Proctor Application Architecture](https://github.com/user-attachments/assets/2fe1fc25-e276-48ed-bb77-5d681cbad47f)
 
-This diagram outlines the relationship between the frontend built with ReactJS using Material-UI, the backend powered by Java Spring Boot connected to a MySQL database, and their deployment via Docker containers. It showcases how Proctor implements modern DevOps practices to ensure scalability, reliability, and maintainability.
-
-
 
 ## Features
 
