@@ -1,7 +1,6 @@
-
 # PROCTOR: Full Stack Web Application with DevOps
 
-This project is a full-stack web application that utilizes ReactJS for the frontend and Java Spring Boot for the backend. The application is containerized and deployed using Docker.
+Welcome to PROCTOR, a comprehensive full-stack web application showcasing modern DevOps practices. PROCTOR integrates a ReactJS frontend with a Java Spring Boot backend, containerized and deployed using Docker.
 
 ## Table of Contents
 
@@ -18,7 +17,7 @@ This project is a full-stack web application that utilizes ReactJS for the front
 
 ## Introduction
 
-This project demonstrates a modern full-stack web application with a focus on DevOps practices. It includes a responsive ReactJS frontend, a robust Spring Boot backend, and a deployment pipeline utilizing Docker and Kubernetes.
+PROCTOR demonstrates a scalable and resilient full-stack web application setup, emphasizing DevOps principles. It combines a responsive ReactJS frontend, a robust Java Spring Boot backend, Docker containerization, and CI/CD pipelines.
 
 ## Architecture
 
@@ -42,6 +41,8 @@ This project demonstrates a modern full-stack web application with a focus on De
 - Scalable and resilient architecture
 
 ## Prerequisites
+
+Before starting, ensure you have the following installed:
 
 - Node.js and npm
 - Java JDK 8
@@ -87,7 +88,9 @@ This project demonstrates a modern full-stack web application with a focus on De
     ```
 
 ## Usage
-Based the configurations, 
+
+Based on the configurations:
+
 - The React frontend will be accessible at `http://localhost:3000`.
 - The Spring Boot backend will be accessible at `http://localhost:9090`.
 
@@ -105,13 +108,12 @@ Based the configurations,
 
 ## Deployment
 
-### CICD Process for FrontEnd
+### CI/CD Process
 
-![image](https://github.com/user-attachments/assets/480b34a6-c280-4cd0-a932-56581cd03d6e)
+Implement CI/CD using Jenkins for automated builds and deployments:
 
-### CICD Process for BackEnd
-
-![image](https://github.com/user-attachments/assets/06d8bd7d-ab98-490a-a32c-e40da171ca0b)
+1. Configure Jenkins jobs for frontend and backend projects.
+2. Set up pipelines for building Docker images and deploying to staging or production environments.
 
 ### Docker
 
@@ -132,33 +134,20 @@ Based the configurations,
     docker run -p 3000:3000 your-frontend-image
     ```
 
-## Check out some snapshots of the application running in production below:
+## Application Snapshots
 
-<br>
+![Snapshot 1](https://github.com/user-attachments/assets/841308ca-5da5-4f86-a640-ce00926a3efe)
 
-![capture_20240708110711](https://github.com/user-attachments/assets/841308ca-5da5-4f86-a640-ce00926a3efe)
-<br>
+![Snapshot 2](https://github.com/user-attachments/assets/d92fbb94-a47c-4409-81cc-a8b807d59366)
 
-![capture_20240716111719](https://github.com/user-attachments/assets/d92fbb94-a47c-4409-81cc-a8b807d59366)
+![Snapshot 3](https://github.com/ManuSureshh/VISProctor/assets/155379347/97003479-cef9-4fe9-be3e-2ff8cc2cde3f)
 
-<br>
+![Snapshot 4](https://github.com/ManuSureshh/VISProctor/assets/155379347/5670d2cd-1790-4651-914a-b8628b02adff)
 
-![capture_20240708110754](https://github.com/ManuSureshh/VISProctor/assets/155379347/97003479-cef9-4fe9-be3e-2ff8cc2cde3f)
+![Snapshot 5](https://github.com/ManuSureshh/VISProctor/assets/155379347/adc1f96a-a70c-447f-a97d-74f62af3fe51)
 
-<br>
+![Snapshot 6](https://github.com/ManuSureshh/VISProctor/assets/155379347/a63ab71f-1e07-4ed5-a22c-80e02fdc25ee)
 
-![capture_20240708110805](https://github.com/ManuSureshh/VISProctor/assets/155379347/5670d2cd-1790-4651-914a-b8628b02adff)
+## License
 
-<br>
-
-![capture_20240708110859](https://github.com/ManuSureshh/VISProctor/assets/155379347/adc1f96a-a70c-447f-a97d-74f62af3fe51)
-
-<br>
-
-![capture_20240708110930](https://github.com/ManuSureshh/VISProctor/assets/155379347/a63ab71f-1e07-4ed5-a22c-80e02fdc25ee)
-
-<br>
-
-This project is licensed and all the rights are reserved to VIS Networks Pvt Ltd. See the [LICENSE](LICENSE) file for details.
-
-
+This project is licensed under the terms of the [LICENSE](LICENSE) file.
