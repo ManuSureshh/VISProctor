@@ -72,10 +72,13 @@ Before starting, ensure you have the following installed:
     ```bash
     mvn clean install
     ```
+     ```bash
+    mvn package
+    ```
 
 3. Run the Spring Boot application:
     ```bash
-    mvn spring-boot:run
+    java -jar target/your-application-name.jar
     ```
 
 ### Frontend (ReactJS)
