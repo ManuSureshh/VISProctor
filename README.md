@@ -63,10 +63,10 @@ Before starting, ensure you have the following installed:
 ### Backend (Spring Boot)
 
 1. Clone the repository:
-2. Navigate to the frontend directory:
-    ```bash
+   ```bash
     git clone https://github.com/yourusername/your-repo.git
     ```
+2. Navigate to the backend directory:
     ```bash
     cd ../backend
     ```
