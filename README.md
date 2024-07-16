@@ -1,6 +1,6 @@
 # PROCTOR: Full Stack Web Application with DevOps
 
-Welcome to PROCTOR, a comprehensive full-stack web application showcasing modern DevOps practices. PROCTOR integrates a ReactJS frontend with a Java Spring Boot backend, containerized and deployed using Docker.
+Welcome to PROCTOR, a comprehensive full-stack web application demonstrating modern DevOps practices. The frontend is built using ReactJS with Material-UI, while the backend utilizes Java Spring Boot and connects to a MySQL database. The entire application is containerized and deployed using Docker.
 
 ## Table of Contents
 
