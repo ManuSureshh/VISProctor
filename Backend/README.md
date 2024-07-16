@@ -5,7 +5,7 @@ This project is developed using Spring Boot for the backend and MySQL for the da
 
 ### Prerequisites
 Make sure you have the following installed:
-- Java Development Kit (JDK) 11 or higher
+- Java Development Kit (JDK) 8
 - Apache Maven
 - MySQL
 
