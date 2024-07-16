@@ -31,7 +31,9 @@ Make sure you have the following installed:
 
 In the project directory, you can run:
 
-#### `mvn spring-boot:run`
+#### `mvn clean install`
+#### `mvn clean package`
+#### `java -jar target/your-application-name.war`
 Runs the application in the development mode.
 Open [http://localhost:9090](http://localhost:9090) to view it in your browser.
 
