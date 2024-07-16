@@ -52,5 +52,46 @@ Once the project is built, you can run the JAR file using:
 java -jar target/proctor-backend-0.0.1-SNAPSHOT.jar
 ```
 # Project Structure
-
+```
+PROCTOR/
+├── Dockerfile
+├── README.md
+├── bin/
+├── hs_err_pid30192.log
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── vis/
+│       │           └── monitor/
+│       │               ├── AppConstants.java
+│       │               ├── MonitorAppApplication.java
+│       │               ├── alert/
+│       │               ├── audit/
+│       │               ├── config/
+│       │               ├── database/
+│       │               ├── entities/
+│       │               ├── group/
+│       │               ├── request/
+│       │               ├── service/
+│       │               ├── system/
+│       │               ├── user/
+│       │               ├── webservice/
+│       │               └── ... (other packages or classes)
+│       └── resources/
+│           ├── META-INF/
+│           ├── VIS-Networks-Logo.png
+│           ├── app.key
+│           ├── app.pub
+│           └── application.properties
+└── target/
+    ├── MonitorApp-0.0.1-SNAPSHOT/
+    ├── classes/
+    ├── m2e-wtp/
+    ├── maven-archiver/
+    └── maven-status/
+```
 
