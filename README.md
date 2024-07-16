@@ -12,7 +12,7 @@ Welcome to PROCTOR, a comprehensive full-stack web application showcasing modern
 - [Usage](#usage)
 - [Development](#development)
 - [Deployment](#deployment)
-- [Application Snapshots](#application-snapshots)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -21,9 +21,9 @@ PROCTOR demonstrates a scalable and resilient full-stack web application setup, 
 
 ## Architecture
 
-- **Frontend:** ReactJS with Material-UI
+- **Frontend:** ReactJS with MaterialUI
 - **Backend:** Java Spring Boot
-- **Database:** MySQL (not explicitly mentioned but assumed based on typical Spring Boot setups)
+- **Database:** MySQL
 - **Containerization:** Docker
 - **CI/CD:** Jenkins
 
@@ -44,11 +44,15 @@ PROCTOR demonstrates a scalable and resilient full-stack web application setup, 
 
 Before starting, ensure you have the following installed:
 
-- Node.js and npm (Node.js 20.9.0)
-- Java JDK 8 (JDK 1.8.0_351)
+- Node.js and npm (version 20.9.0)
+- Java JDK (version 1.8.0_351)
+- Maven (version 3.9.4)
 - Docker
-- Maven (Maven 3.9.4)
-- MySQL (assumed based on typical Spring Boot setups)
+- MySQL
+- Jenkins
+- SonarQube
+- Trivy
+- Nexus Repository Manager
 
 ## Installation
 
@@ -62,12 +66,12 @@ Before starting, ensure you have the following installed:
 
 2. Build the project:
     ```bash
-    ./mvnw clean install
+    mvn clean install
     ```
 
 3. Run the Spring Boot application:
     ```bash
-    ./mvnw spring-boot:run
+    mvn spring-boot:run
     ```
 
 ### Frontend (ReactJS)
@@ -136,17 +140,7 @@ Implement CI/CD using Jenkins for automated builds and deployments:
 
 ## Application Snapshots
 
-![Snapshot 1](https://github.com/user-attachments/assets/841308ca-5da5-4f86-a640-ce00926a3efe)
-
-![Snapshot 2](https://github.com/user-attachments/assets/d92fbb94-a47c-4409-81cc-a8b807d59366)
-
-![Snapshot 3](https://github.com/ManuSureshh/VISProctor/assets/155379347/97003479-cef9-4fe9-be3e-2ff8cc2cde3f)
-
-![Snapshot 4](https://github.com/ManuSureshh/VISProctor/assets/155379347/5670d2cd-1790-4651-914a-b8628b02adff)
-
-![Snapshot 5](https://github.com/ManuSureshh/VISProctor/assets/155379347/adc1f96a-a70c-447f-a97d-74f62af3fe51)
-
-![Snapshot 6](https://github.com/ManuSureshh/VISProctor/assets/155379347/a63ab71f-1e07-4ed5-a22c-80e02fdc25ee)
+Include your application snapshots or screenshots here.
 
 ## License
 
