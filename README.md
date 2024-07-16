@@ -4,16 +4,15 @@ Welcome to PROCTOR, a comprehensive full-stack web application demonstrating mod
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+1. [Introduction](#introduction)
+2. [Setup](#setup)
+3. [Development](#development)
+4. [Deployment](#deployment)
+5. [Monitoring and Logging](#monitoring-and-logging)
+6. [Contributing](#contributing)
+7. [Troubleshooting](#troubleshooting)
+8. [License](#license)
+9. [Contact Information](#contact-information)
 
 ## Introduction
 
