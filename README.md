@@ -16,7 +16,13 @@ Welcome to PROCTOR, a comprehensive full-stack web application demonstrating mod
 
 ## Introduction
 
-PROCTOR demonstrates a scalable and resilient full-stack web application setup, emphasizing DevOps principles. It combines a responsive ReactJS frontend, a robust Java Spring Boot backend, Docker containerization, and CI/CD pipelines.
+Welcome to PROCTOR, a comprehensive full-stack web application that showcases modern DevOps practices. PROCTOR integrates a frontend built with ReactJS using Material-UI and a backend powered by Java Spring Boot, connected to a MySQL database. The application is designed to be containerized using Docker, simplifying deployment and scalability.
+
+This README.md provides an overview of how to set up, develop, deploy, and contribute to PROCTOR. It includes instructions for configuring your development environment, running tests, deploying with Docker, setting up CI/CD pipelines, and more. Whether you're a developer, DevOps engineer, or contributor, this guide aims to facilitate your interaction with the project.
+
+Please refer to the [Table of Contents](#table-of-contents) for detailed sections and instructions. Feel free to reach out to us via [contact information](#contact-information) provided below if you have any questions or feedback.
+
+Let's get started building and deploying PROCTOR with DevOps best practices!
 
 ## Architecture
 
