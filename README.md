@@ -136,11 +136,10 @@ Based the configurations,
 
 <br>
 
-![capture_20240708110711](https://github.com/ManuSureshh/VISProctor/assets/155379347/fb920c23-5db1-48b4-9c9c-9d2db8170cdf)
-
+![capture_20240708110711](https://github.com/user-attachments/assets/841308ca-5da5-4f86-a640-ce00926a3efe)
 <br>
 
-![capture_20240708110725](https://github.com/ManuSureshh/VISProctor/assets/155379347/f25e17f1-0ffd-4b20-972a-5d3d363f08ad)
+![capture_20240716111719](https://github.com/user-attachments/assets/d92fbb94-a47c-4409-81cc-a8b807d59366)
 
 <br>
 
