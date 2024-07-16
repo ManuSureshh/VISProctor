@@ -31,7 +31,7 @@ PROCTOR demonstrates a scalable and resilient full-stack web application setup, 
 
 - Real-time monitoring of Avaya servers
 - Port and database monitoring
-- Web server and API monitoring
+- Web Services monitoring
 - Report generation and export
 - User authentication and authorization
 - CRUD operations for various entities
