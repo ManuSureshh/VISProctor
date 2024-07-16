@@ -63,12 +63,17 @@ Before starting, ensure you have the following installed:
 ### Backend (Spring Boot)
 
 1. Clone the repository:
+2. Navigate to the frontend directory:
     ```bash
     git clone https://github.com/yourusername/your-repo.git
-    cd your-repo/backend
+    ```
+    ```bash
+    cd ../backend
     ```
 
-2. Build the project:
+3. Make sure the Database which you are using the project is up and running.
+
+4.  Build the project:
     ```bash
     mvn clean install
     ```
@@ -76,7 +81,7 @@ Before starting, ensure you have the following installed:
     mvn package
     ```
 
-3. Run the Spring Boot application:
+5. Run the Spring Boot application:
     ```bash
     java -jar target/your-application-name.jar
     ```
