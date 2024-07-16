@@ -9,8 +9,8 @@ Welcome to PROCTOR, a comprehensive full-stack web application demonstrating mod
 3. [Features](#Features)
 4. [Prerequisites](#Prerequisites)
 5. [Installation](#Installation)
-6. [Contributing](#contributing)
-7. [Troubleshooting](#troubleshooting)
+6. [Development](#Development)
+7. [Deployment](#Deployment)
 8. [License](#license)
 9. [Contact Information](#contact-information)
 
