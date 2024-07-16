@@ -5,13 +5,13 @@ Welcome to PROCTOR, a comprehensive full-stack web application demonstrating mod
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Architecture](#Architecture)
-3. [Features](#Features)
-4. [Prerequisites](#Prerequisites)
-5. [Installation](#Installation)
-6. [Development](#Development)
-7. [Deployment](#Deployment)
-8. [Application Snapshots] (#Application Snapshots)
+2. [Architecture](#architecture)
+3. [Features](#features)
+4. [Prerequisites](#prerequisites)
+5. [Installation](#installation)
+6. [Development](#development)
+7. [Deployment](#deployment)
+8. [Application Snapshots](#application-snapshots)
 9. [License](#license)
 10. [Contact Information](#contact-information)
 
@@ -30,7 +30,6 @@ Let's get started building and deploying PROCTOR with DevOps best practices!
 The architecture diagram below illustrates the structure of the Proctor application:
 
 ![Proctor Application Architecture](https://github.com/user-attachments/assets/2fe1fc25-e276-48ed-bb77-5d681cbad47f)
-
 
 ## Features
 
@@ -116,10 +115,10 @@ Based on the configurations:
 - To add new routes, update the `src/App.js` file.
 
 ## Deployment
+
 ### Implement CI/CD using Jenkins for automated builds and deployments:
+
 ![image](https://github.com/user-attachments/assets/802e13a7-9f77-48ba-b830-7ee1870468d3)
-
-
 
 ### Docker
 
