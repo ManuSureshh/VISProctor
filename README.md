@@ -5,7 +5,7 @@ Welcome to PROCTOR, a comprehensive full-stack web application demonstrating mod
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Setup](#setup)
+2. [Architecture](#Architecture)
 3. [Development](#development)
 4. [Deployment](#deployment)
 5. [Monitoring and Logging](#monitoring-and-logging)
