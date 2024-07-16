@@ -41,7 +41,8 @@ The server will reload if you make edits.
 You will also see any lint errors in the console.
 
 #### `mvn test`
-Launches the test runner.
+Launches the test runner in the interactive watch mode.
+See the section about [running tests](https://docs.spring.io/spring-boot/index.html) for more information.
 
 ### Building the Project
 
