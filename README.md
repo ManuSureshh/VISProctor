@@ -12,7 +12,7 @@ Welcome to PROCTOR, a comprehensive full-stack web application showcasing modern
 - [Usage](#usage)
 - [Development](#development)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
+- [Application Snapshots](#application-snapshots)
 - [License](#license)
 
 ## Introduction
@@ -21,9 +21,9 @@ PROCTOR demonstrates a scalable and resilient full-stack web application setup, 
 
 ## Architecture
 
-- **Frontend:** ReactJS
+- **Frontend:** ReactJS with Material-UI
 - **Backend:** Java Spring Boot
-- **Database:** MySQL
+- **Database:** MySQL (not explicitly mentioned but assumed based on typical Spring Boot setups)
 - **Containerization:** Docker
 - **CI/CD:** Jenkins
 
@@ -44,11 +44,11 @@ PROCTOR demonstrates a scalable and resilient full-stack web application setup, 
 
 Before starting, ensure you have the following installed:
 
-- Node.js and npm
-- Java JDK 8
+- Node.js and npm (Node.js 20.9.0)
+- Java JDK 8 (JDK 1.8.0_351)
 - Docker
-- MySQL
-- Maven
+- Maven (Maven 3.9.4)
+- MySQL (assumed based on typical Spring Boot setups)
 
 ## Installation
 
