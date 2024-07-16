@@ -26,11 +26,36 @@ Let's get started building and deploying PROCTOR with DevOps best practices!
 
 ## Architecture
 
-- **Frontend:** ReactJS with MaterialUI
-- **Backend:** Java Spring Boot
-- **Database:** MySQL
-- **Containerization:** Docker
-- **CI/CD:** Jenkins
+PROCTOR is structured as a full-stack web application leveraging modern DevOps practices to ensure scalability, reliability, and maintainability. Below is an overview of its architecture:
+
+### Frontend
+
+The frontend of PROCTOR is built using ReactJS along with Material-UI for styling and user interface components. ReactJS provides a responsive and interactive user experience, while Material-UI ensures consistent design patterns and a modern look.
+
+### Backend
+
+PROCTOR's backend is powered by Java Spring Boot, a robust and widely-used framework for building Java-based applications. Spring Boot facilitates rapid development and provides essential features such as dependency injection, RESTful APIs, and data access through JPA (Java Persistence API).
+
+### Database
+
+The backend of PROCTOR is connected to a MySQL database, which stores and manages application data. MySQL is chosen for its reliability, performance, and compatibility with Spring Boot's data access technologies.
+
+### Containerization and Deployment
+
+PROCTOR is containerized using Docker, allowing for seamless deployment across different environments. Docker containers encapsulate each component of the application, including frontend, backend, and database, ensuring consistency and ease of deployment.
+
+### DevOps Practices
+
+- **Continuous Integration/Continuous Deployment (CI/CD):** CI/CD pipelines automate the build, test, and deployment processes, ensuring rapid and reliable delivery of updates to production.
+  
+- **Monitoring and Logging:** PROCTOR integrates monitoring tools like Prometheus for metrics collection and Grafana for visualization, ensuring real-time insights into application performance. Centralized logging with the ELK stack (Elasticsearch, Logstash, Kibana) provides detailed logs for troubleshooting and analysis.
+
+### Scalability and Resilience
+
+PROCTOR's architecture is designed to be scalable and resilient. Docker containers enable horizontal scaling by spinning up multiple instances of each component as needed. Spring Boot's support for clustering and load balancing ensures that PROCTOR can handle increased traffic and maintain performance under load.
+
+This architecture ensures that PROCTOR is not only robust and scalable but also aligned with best practices in DevOps, making it suitable for deployment in diverse environments and adaptable to changing business needs.
+
 
 ## Features
 
