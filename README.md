@@ -177,6 +177,8 @@ Based on the configurations:
 
 This project is licensed under the terms of the [LICENSE](LICENSE) file.
 
+---
+
 ## Contact Information
 For any questions or feedback, please reach out to us at:
 
